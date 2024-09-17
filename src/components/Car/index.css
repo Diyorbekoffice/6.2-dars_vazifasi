@@ -1,0 +1,18 @@
+.car{
+    background-color: aqua;
+    padding: 10px 20px;
+    border-radius: 10px;
+    display: flex;
+    gap: 5px;
+}
+
+.car .radio {
+    background-color: rgb(245, 32, 32);
+    border-radius: 50%;
+    border: 1px solid #000;
+    width: 7px;
+    height: 7px;
+    align-items: center;
+    margin-top: 5px;
+
+}

@@ -1,0 +1,28 @@
+.user {
+    width: 28%;
+    padding: 20px;
+    border: 1px solid #000;
+}
+
+.user img {
+    width: 100%;
+}
+
+.user p{
+    text-align: center;
+}
+
+.user .car-container{
+    display: flex;  
+    justify-content: left;
+    gap: 20px;
+    align-items: center;
+}
+
+.user .cantact p{
+    text-align: left;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
